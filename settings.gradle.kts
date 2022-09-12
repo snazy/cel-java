@@ -32,7 +32,7 @@ pluginManagement {
 
   val versionIdeaExtPlugin = "1.1.6"
   val versionJandexPlugin = "1.82"
-  val versionNessieBuildPlugins = "0.2.11"
+  val versionNessieBuildPlugins = "0.2.12"
   val versionShadowPlugin = "7.1.2"
   val versionSpotlessPlugin = "6.10.0"
 
