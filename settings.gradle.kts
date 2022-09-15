@@ -34,7 +34,7 @@ pluginManagement {
   val versionJandexPlugin = "1.82"
   val versionNessieBuildPlugins = "0.2.12"
   val versionShadowPlugin = "7.1.2"
-  val versionSpotlessPlugin = "6.10.0"
+  val versionSpotlessPlugin = "6.11.0"
 
   plugins {
     id("com.diffplug.spotless") version versionSpotlessPlugin
